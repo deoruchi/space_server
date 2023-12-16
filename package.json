@@ -4,7 +4,7 @@
   "description": "create a space for experiment",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "npm index.js",
     "build": "npm run build"
   },
   "keywords": [
