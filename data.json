@@ -1,0 +1,51 @@
+{
+  "survey": {
+    "question": "How much time do you spend on your smartphone daily?",
+    "participants": [
+      {
+        "age_group": "18-24",
+        "female": {
+          "average_time": "2-3 hours",
+          "survey_count": 120
+        },
+        "male": {
+          "average_time": "1-2 hours",
+          "survey_count": 100
+        }
+      },
+      {
+        "age_group": "25-34",
+        "female": {
+          "average_time": "3-4 hours",
+          "survey_count": 90
+        },
+        "male": {
+          "average_time": "2-3 hours",
+          "survey_count": 80
+        }
+      },
+      {
+        "age_group": "35-44",
+        "female": {
+          "average_time": "2-3 hours",
+          "survey_count": 60
+        },
+        "male": {
+          "average_time": "1-2 hours",
+          "survey_count": 50
+        }
+      },
+      {
+        "age_group": "45+",
+        "female": {
+          "average_time": "1-2 hours",
+          "survey_count": 30
+        },
+        "male": {
+          "average_time": "30 minutes - 1 hour",
+          "survey_count": 25
+        }
+      }
+    ]
+  }
+}

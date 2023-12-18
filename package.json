@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "create a space for experiment",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "npm index.js",
-    "build": "npm run build"
+    "build": "npm run build",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "index"
